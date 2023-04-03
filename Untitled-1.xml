@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<note xmlns="https://www.w3schools.com"xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"xsi:schemaLocation="http://www.w3schools.com myschema.xsd">
+    
+
+
+<parent name="Imed"
+
+xmlns="http://www.w3schools.com"
+
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+
+xsi:schemaLocation="http://www.w3schools.com myschema.xsd">
+
+<son age="3">Hou</son>
+
+<daughter>Asma</daughter>
+
+</parent>
